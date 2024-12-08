@@ -8,7 +8,7 @@ variable "subnet_cidr" {
 }
 
 variable "availability_zone" {
-  default = "us-east-1a"
+  default = "ap-south-1"
 }
 
 variable "ami_id" {
